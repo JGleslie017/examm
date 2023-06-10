@@ -1,0 +1,40 @@
+﻿<Window x:Class="TuProyecto.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Tu Proyecto" Height="450" Width="800">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <StackPanel Grid.Row="0" Orientation="Horizontal" Margin="10">
+            <TextBlock Text="Carnet:" VerticalAlignment="Center"/>
+            <TextBox x:Name="txtCarnet" Margin="5"/>
+            <TextBlock Text="Nombre:" VerticalAlignment="Center" Margin="10,0,0,0"/>
+            <TextBox x:Name="txtNombre" Margin="5"/>
+            <TextBlock Text="Teléfono:" VerticalAlignment="Center" Margin="10,0,0,0"/>
+            <TextBox x:Name="txtTelefono" Margin="5"/>
+            <TextBlock Text="Grado:" VerticalAlignment="Center" Margin="10,0,0,0"/>
+            <TextBox x:Name="txtGrado" Margin="5"/>
+            <Button Content="Guardar" Click="BtnGuardar_Click" Margin="10,0,0,0"/>
+        </StackPanel>
+
+        <DataGrid Grid.Row="1" x:Name="dataGrid" Margin="10" AutoGenerateColumns="False" ItemsSource="{Binding Alumnos}">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="Carnet" Binding="{Binding Carnet}"/>
+                <DataGridTextColumn Header="Nombre" Binding="{Binding Nombre}"/>
+                <DataGridTextColumn Header="Teléfono" Binding="{Binding Telefono}"/>
+                <DataGridTextColumn Header="Grado" Binding="{Binding Grado}"/>
+                <DataGridTemplateColumn>
+                    <DataGridTemplateColumn.CellTemplate>
+                        <DataTemplate>
+                            <Button Content="Eliminar" Click="BtnEliminar_Click"/>
+                        </DataTemplate>
+                    </DataGridTemplateColumn.CellTemplate>
+                </DataGridTemplateColumn>
+            </DataGrid.Columns>
+        </DataGrid>
+    </Grid>
+</Window>

@@ -1,0 +1,27 @@
+C:\Users\leslie\source\repos\Examen Final\Examen Final\obj\Debug\net6.0-windows\Examen Final.csproj.AssemblyReference.cache
+C:\Users\leslie\source\repos\Examen Final\Examen Final\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\leslie\source\repos\Examen Final\Examen Final\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\leslie\source\repos\Examen Final\Examen Final\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\leslie\source\repos\Examen Final\Examen Final\obj\Debug\net6.0-windows\Examen Final_MarkupCompile.cache
+C:\Users\leslie\source\repos\Examen Final\Examen Final\obj\Debug\net6.0-windows\Examen Final.g.resources
+C:\Users\leslie\source\repos\Examen Final\Examen Final\obj\Debug\net6.0-windows\Examen Final.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leslie\source\repos\Examen Final\Examen Final\obj\Debug\net6.0-windows\Examen Final.AssemblyInfoInputs.cache
+C:\Users\leslie\source\repos\Examen Final\Examen Final\obj\Debug\net6.0-windows\Examen Final.AssemblyInfo.cs
+C:\Users\leslie\source\repos\Examen Final\Examen Final\obj\Debug\net6.0-windows\Examen Final.csproj.CoreCompileInputs.cache
+C:\Users\leslie\source\repos\Examen Final\Examen Final\bin\Debug\net6.0-windows\Examen Final.exe
+C:\Users\leslie\source\repos\Examen Final\Examen Final\bin\Debug\net6.0-windows\Examen Final.deps.json
+C:\Users\leslie\source\repos\Examen Final\Examen Final\bin\Debug\net6.0-windows\Examen Final.runtimeconfig.json
+C:\Users\leslie\source\repos\Examen Final\Examen Final\bin\Debug\net6.0-windows\Examen Final.dll
+C:\Users\leslie\source\repos\Examen Final\Examen Final\bin\Debug\net6.0-windows\Examen Final.pdb
+C:\Users\leslie\source\repos\Examen Final\Examen Final\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\leslie\source\repos\Examen Final\Examen Final\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\leslie\source\repos\Examen Final\Examen Final\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\leslie\source\repos\Examen Final\Examen Final\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\leslie\source\repos\Examen Final\Examen Final\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\leslie\source\repos\Examen Final\Examen Final\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\leslie\source\repos\Examen Final\Examen Final\obj\Debug\net6.0-windows\Examen Final.csproj.CopyComplete
+C:\Users\leslie\source\repos\Examen Final\Examen Final\obj\Debug\net6.0-windows\Examen Final.dll
+C:\Users\leslie\source\repos\Examen Final\Examen Final\obj\Debug\net6.0-windows\refint\Examen Final.dll
+C:\Users\leslie\source\repos\Examen Final\Examen Final\obj\Debug\net6.0-windows\Examen Final.pdb
+C:\Users\leslie\source\repos\Examen Final\Examen Final\obj\Debug\net6.0-windows\Examen Final.genruntimeconfig.cache
+C:\Users\leslie\source\repos\Examen Final\Examen Final\obj\Debug\net6.0-windows\ref\Examen Final.dll
